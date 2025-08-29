@@ -1,5 +1,20 @@
 # responsibleAI-dmiDetained
 
+Repositorio del Proyecto del Curso *IA Responsable*
+
+Integrantes:
+
+- Silvana Baez
+- Gabriel Cisneros
+- Lenin Falconí
+- Mario Moreno
+- Jorge Pazmiño
+- Jonathan Zea
+
+## Acerca de los datos:
+
+
+
 1. se descarta la las variables:
     - codigo_iccs: tiene relación con el código ICCS pero no guarda relación lineal con presunta_infraccion
     - fecha
